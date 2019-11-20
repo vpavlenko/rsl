@@ -1,4 +1,5 @@
 import scrapy
+import time
 
 BESE_URL = "https://www.spreadthesign.com"
 
@@ -8,12 +9,14 @@ class WordsSpider(scrapy.Spider):
     max_id = 16000  # max id I found 
 
     def start_requests(self):
-            for i in range(self.max_id):
+        for i in range(101, 1001):
+                print(i)
+            #for i in range(self.max_id):
                 yield scrapy.Request(
                     'https://www.spreadthesign.com/ru.ru/word/{0}'.format(i),
                     callback=self.parse
                 )
-                # time.sleep
+                time.sleep(1)
     
     def parse(self, response):
         word = response.css("h2::text").getall()[1].strip()
@@ -35,7 +38,7 @@ class WordsSpider(scrapy.Spider):
 
         yield {
             "word": word,
-            "video_link": response.css("video").xpath('@src').get(),
-            "url": response.url,
-            "synonyms": synonyms_data,
+            "video": response.css("video").xpath('@src').get(),
+            "source": response.url,
+            #"synonyms": synonyms_data,
         }
