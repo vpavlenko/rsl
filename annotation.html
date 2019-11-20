@@ -8,6 +8,9 @@
     <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
     <div id="player"></div>
 
+    <br>
+    <input type="text" autofocus onkeydown="handleKeydown(event)" style="height: 2em;">
+
     <div id="annotation"></div>
 
     <script>
@@ -23,8 +26,8 @@
       var player;
       function onYouTubeIframeAPIReady() {
         player = new YT.Player('player', {
-          height: '180',
-          width: '320',
+          height: '360',
+          width: '640',
           videoId: 'NPaknzvAW8Q',
           events: {
             'onReady': onPlayerReady,
@@ -63,6 +66,22 @@
       }
       function stopVideo() {
         player.stopVideo();
+      }
+
+      function handleKeydown(event) {
+        if (event.keyCode == 13) {
+            var newTimestamp = Math.round(player.getCurrentTime() * 10) / 10;
+            var word = event.target.value;
+            if (word) {
+                document.getElementById('annotation').innerText += JSON.stringify({
+                    word: word,
+                    startTime: lastTimestamp,
+                    endTime: newTimestamp
+                }) + ',    ';
+            }
+            event.target.value = '';
+            lastTimestamp = newTimestamp;
+        }
       }
     </script>
   </body>
