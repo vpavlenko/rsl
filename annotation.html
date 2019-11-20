@@ -25,7 +25,7 @@
         player = new YT.Player('player', {
           height: '180',
           width: '320',
-          videoId: 's8eR846SG_Y',
+          videoId: 'NPaknzvAW8Q',
           events: {
             'onReady': onPlayerReady,
             'onStateChange': onPlayerStateChange
@@ -44,7 +44,7 @@
       var done = false;
       var lastTimestamp = 0;
       function onPlayerStateChange(event) {
-        var newTimestamp = Math.round(player.getCurrentTime());
+        var newTimestamp = Math.round(player.getCurrentTime() * 10) / 10;
         if (event.data == YT.PlayerState.PAUSED) {
             var word = prompt('Какое слово? ' + lastTimestamp + '..' + newTimestamp);
             if (word) {
