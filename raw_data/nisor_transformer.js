@@ -10,7 +10,7 @@ input.forEach(({video, word}) => {
   };
 
   if (word.endsWith(' 2')) {
-    word.slice(0, -2);
+    word = word.slice(0, -2);
   }
 
   const index = _.findIndex(output, {word});
