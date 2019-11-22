@@ -49,4 +49,4 @@ input.forEach(([word, variants]) => {
   });
 });
 
-// console.log(JSON.stringify(output, null, 2));
+console.log(JSON.stringify(output, null, 2));
