@@ -4,13 +4,35 @@
 <!DOCTYPE html>
 <html>
   <meta charset="utf-8">
+  <style type="text/css">
+    input {
+      height: 50px;
+    }
+
+    * {
+      font-size: 20px;
+    }
+
+    button {
+      margin: 10px;
+    }
+  </style>
   <body>
     <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
     <form onsubmit="handleChangeVideo(event)">
     Ссылка на видео:
-      <input type="text" style="height: 2em; width: 50em;" id="video_url" placeholder="https://www.youtube.com/watch?v=3HgApLXW-9w">
-      <input type="submit" value="Начать разметку">
+      <div>
+        <input type="text" style="height: 2em; width: 40em;" id="video_url" placeholder="https://www.youtube.com/watch?v=3HgApLXW-9w">
+      </div>
+      <button type="submit">Начать разметку</button>
     </form>
+
+    <div>
+      <button onclick="player.setPlaybackRate(0.25)">Скорость 0.25</button>
+      <button onclick="player.setPlaybackRate(0.5)">Скорость 0.5</button>
+      <button onclick="player.setPlaybackRate(1)">Скорость 1</button>
+      <button onclick="player.setPlaybackRate(1.5)">Скорость 1.5</button>
+    </div>
 
     <div id="player"></div>
 
@@ -20,7 +42,7 @@
 
     <div id="annotation"></div>
 
-    <input type="button" value="Скопировать результат" onclick="handleCopyResult(event)">
+    <button onclick="handleCopyResult(event)">Скопировать результат</button>
 
     <script>
       // 2. This code loads the IFrame Player API code asynchronously.
@@ -50,6 +72,9 @@
       function handleChangeVideo(event) {
         event.preventDefault();
         videoId = new URL(document.getElementById('video_url').value).searchParams.get('v');
+        if (videoId === null) {
+          videoId = new URL(document.getElementById('video_url').value).pathname.slice(1);
+        }
         if (videoId) {
           player.loadVideoById({videoId});
           words = [];
