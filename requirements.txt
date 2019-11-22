@@ -1,1 +1,3 @@
+beautifulsoup4
+requests
 scrapy==1.8.0
