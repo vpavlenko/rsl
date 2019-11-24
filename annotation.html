@@ -41,6 +41,11 @@
     Размечаемое слово:
     <input type="text" onkeydown="handleKeydown(event)" value="НАЧАЛО" style="height: 2em;">
 
+    <div style="border: 4px solid green; padding: 10px; border-radius: 4px;">
+    Enter нужно нажимать ровно между словами. Если не успеваете дописать слово - ровно между словами нажмите 
+    Escape (видео поставится на паузу).
+    </div>
+
     <div id="annotation"></div>
 
     <button onclick="handleCopyResult(event)">Скопировать результат</button>
@@ -131,6 +136,9 @@
           var word = event.target.value;
           addWord(word);
           event.target.value = '';
+        }
+        if (event.keyCode == 27) {
+          player.pauseVideo();
         }
       }
     </script>
