@@ -5,6 +5,8 @@ output = [];
 
 input.forEach(({video, words}) => {
   words.forEach(({word, startTime, endTime}) => {
+    word = word.toLowerCase();
+
     const variant = {
       video: `https://www.youtube.com/watch?v=${video}`,
       start: startTime,
