@@ -1,0 +1,981 @@
+[
+  {
+    "word": "Всегда, часто",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=AVSFhoDXxVg",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Все время, тысячу раз это делал",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=orbW0gjpd2E",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Постоянно",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=fHsBBv504CQ",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Одно и тоже",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=nkBfJIH7PKI",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=y7H1US_2q0g",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Комфортно, все есть, все что душа пожелает",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=nDKhtRyXc70",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Хоть бы что, нормально",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=2REHvRIbOwg",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Очень легко",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=TR3zWIcXz18",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Гора с плеч, отделаться",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=PiAZUs4RnCk",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Ладно, ради кого-то",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=ahUU1HdUvYo",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "На всякий случай",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=QmJn1sBUots",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "На душе неспокойно",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=TJJKfb3RNF0",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Кошмар, довести до инфаркта",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=1Dg9WbBJX10",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Кошмар, ужас",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=jdHjFEDxQy8",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Кошмар, можно застрелиться",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=aWVDMyCguMc",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Оказаться в неловком положении",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=ps76gvUxri4",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Невозможная ситуация",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=yAXj2C-uZf0",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Странно, удивительно",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=fECZdVcDiak",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Невероятно, такого не может быть",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=Kn2LLWyu0_A",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Уникально, особенно, оригинально",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=crcYbELL1Ao",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Наобум, брать с потолка, от фонаря",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=aTkVckpsMWg",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Что есть",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=nwDixX0PhOs",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "И тут и там",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=VjeRLH7UmFw",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "И нашим и вашим",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=vlolEK1ITGo",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Не разлить водой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=8wgKtgiWZc0",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": " Во что бы то ни стало",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=00p8--UvDo4",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Во что бы то ни стало, не упустить момент",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=z1rR-ZgUYP8",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Привязаться, пристать как банный лист",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=2PWwydHpea8",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Все сделать, что надо",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=AX4pRGbL05k",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Ни за что",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=I0DYI6vfZTg",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Тот самый, именно тот",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=GSRmedV-NKs",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Вот оно что",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=lWDXd5BIOPg",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Честное слово",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=S60OxMwDrUc",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Все равно, неисправимо, бесполезно",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=YP2nbv1rdWw",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Без толку, бесполезно",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=A08bGPfdd_4",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Обязательно, абсолютно точно, вне всякого сомнения",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=RJz5pLfrbc8",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Отвратительно, противно",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=qaw1EwRzJdE",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Противно, отвратительно",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=37cVtZB9jpk",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Некрасиво, безвкусно, убого",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=bvuTHzOBMFA",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Ничего, более-менее, неплохо",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=PQjGriq4Rpk",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Неохота",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=yqp8W1WsmFk",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Лень",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=nYXBVRX-uBU",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Быть равнодушным к чему-либо",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=PsfXwJ_ecq8",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Хорошо знать что-либо, дока, мастер в каком-нибудь деле",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=Q_3bmowEtPo",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Случайное совпадение, счастливый случай, ничего не поделаешь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=dRXXq_hhnbw",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=wVmwMYiw6Ds",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Раздражать, бесить",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=KMfcywbZBuk",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=YF1SUx7ODs8",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Досадно, обидно",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=y0XCTxjaCE4",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Посмеиваться про себя",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=SAsM42Ppl-k",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Взять в себя руки",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=2iQ_ggiG4J8",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Ругать, метать гром и молнии",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=ZLSJsP6bQuM",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Быть в неловком положении, не знать как себя вести",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=mz-gO874ltY",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Неловкое неудобное положение, быть не в своей тарелке",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=rxF8fNLVUts",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Очень хотеть",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=448hf3Ap8GU",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Незаметно, исподтишка",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=K18NqHebSEA",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Возмущаться, досадно (за несправедливость)",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=25tZGHbUVHA",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Не получаться, не удаваться",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=SnCNAVH59Bs",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Не удаваться, не повезти",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=jhRYH6q11CU",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=NHKgrRuyy3I",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Душа не лежит, не любить",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=cSVJGOtp3ek",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Все есть",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=3SyH8uIuWF8",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Сесть в лужу, попасть в неудобную ситуацию",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=t_o7f-5C5Bg",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Мурашки по коже",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=eqLPLBR8-ls",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Зачем",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=3B8B-dOAzOo",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "В самый раз, то, что надо",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=Ch2VX-LZC5M",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Держать язык за зубами",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=HeDEbA34Z2Y",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Закрыть тему, уладить дело",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=QYou1tqaUzA",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Игнорировать, не обращать внимания, в упор не видеть",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=Wd3MAEeIs6s",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Делать вид",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=-hqKSnl33t0",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Клюнуть на удочку, поверить",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M9obPdbfZBM",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Оставить в дураках, обмануть",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=eLWoEQ4AVWU",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Рассчитаться, оплатить той же монетой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=TxK75HYb2Do",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Валить с больной головы на здоровую",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=SOvIk_X0goA",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Не упустить свое",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=h78JYWVOGIw",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Увиливать, избегать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=xcIMyI6yQkw",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Разнимать, не допуcкать чего-либо",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0mvDBu_wZOE",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Отбиваться",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=hgKrO7BNC7w",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Быть под каблуком, подчиняться",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u29m2pAw6lE",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Уговаривать, уламывать, умасливать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=wJVF-hd7G0E",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "От широты души, ради кого-то",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=uA8Y2AbPZwI",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Выдавать, выбалтывать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CoRYfoYi3r8",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Выболтать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IrGUHVzZzBw",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Проболтаться, проговориться",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=HMw8HYBABeI",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Выдать тайну, секрет",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=dC_oehNPJeM",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Поймать на слове",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=zp8EUyFkAEs",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Очень сильно устать, устать как собака",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=JiWrdmIkFIg",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Долго искать, разыскивать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=c95dq8mNcnE",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Не откладывать в долгий ящик, сделать сейчас",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=nUtAJnlCJ_o",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Куда ты, туда и я как нитка за иголкой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=fMQvjVwcv1g",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Прийти в упадок, ухудшить свое положение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=-xsU-ZV_3ec",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Ухудшить положение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=chIhFSj0SBo",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Пропасть, конец пришел",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=zm3qrFbKIDk",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Сделать запросто, смочь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=iZNMsG2kiRU",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Получить выгоду, сорвать куш",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=yHqYh128sRo",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Выкрутиться из положения",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=Eq4MghSFN3s",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Cводить концы с концами, перебиваться",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=Vx_ib2Hp7aU",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Воспользоваться случаем, ситуацией",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=pV1iM-qGH_Q",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Не рисковать, не связываться",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=Xh9G7X5YR8I",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Отказываться (от еды, питья)",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=seo-O32SHrA",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Быть в расчете, быть квитым",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=awISTiJMhj8",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Испортить репутацию, получить клеймо",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=qhHLRfhlHyo",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Ошибиться, обознаться",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=jp0aHNRTU6Y",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Рискнуть",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=1FUfovytEhY",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Быть мелочным, придираться",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=6WkhvDfnFPw",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Предпочитать что-либо",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=YJknal6e1WE",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Замкнуться, жить сам по себе",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=nYYgiY5jTlc",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Зайти в тупик, не знать, что делать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=ykes7fXGZtg",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Делать из мухи слона, преувеличивать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=upXAdsJw4Fg",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Остерегаться, бояться",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=hptI6nKz5Ko",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  },
+  {
+    "word": "Быть настороже, начеку",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=yImYXJymskY",
+        "source": "https://www.youtube.com/playlist?list=PLbnWmVvet_0xylwaOtIHIvUfUDT_09iWh"
+      }
+    ]
+  }
+]
