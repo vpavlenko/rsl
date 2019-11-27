@@ -3420,6 +3420,12 @@
         "start": 866,
         "end": 868,
         "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 143.3,
+        "end": 146.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
       }
     ]
   },
@@ -10117,6 +10123,2972 @@
         "video": "https://www.youtube.com/watch?v=_FFFjn5pzJE",
         "start": 863.6,
         "end": 865.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "миллион",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "end": 4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "десять тысяч",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 4,
+        "end": 7.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "девять тысяч",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 7.5,
+        "end": 10.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "восемь тысяч",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 10.5,
+        "end": 13.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "семь тысяч",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 13.6,
+        "end": 17.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "шесть тысяч",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 17.4,
+        "end": 20.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "пять тысяч",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 20.6,
+        "end": 23.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "четыре тысячи",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 23.9,
+        "end": 27,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "три тысячи",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 27,
+        "end": 30.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "две тысячи",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 30.1,
+        "end": 33.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "тысяча",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 33.2,
+        "end": 36.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "девятьсот",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 36.7,
+        "end": 40.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "восемьсот",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 40.3,
+        "end": 43.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "семьсот",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 43.1,
+        "end": 45.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "шестьсот",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 45.8,
+        "end": 49.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "пятьсот",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 49.2,
+        "end": 52.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "четыреста",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 52.3,
+        "end": 55.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "триста",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 55.6,
+        "end": 59,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "двести",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 59,
+        "end": 61.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "сто",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 61.8,
+        "end": 64.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "девяносто",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 64.4,
+        "end": 67.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "восемьдесят",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 67.3,
+        "end": 71,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "семьдесят",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 71,
+        "end": 73.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "шестьдесят",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 73.4,
+        "end": 76,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "пятьдесят",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 76,
+        "end": 78.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "сорок",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 78.5,
+        "end": 81,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "тридцать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 81,
+        "end": 83.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "двадцать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 83.7,
+        "end": 87,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "девятнадцать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 87,
+        "end": 89.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "восемнадцать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 89.8,
+        "end": 92.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "семнадцать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 92.6,
+        "end": 94.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "шестнадцать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 94.9,
+        "end": 97.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "пятнадцать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 97.7,
+        "end": 100.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "четырнадцать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 100.4,
+        "end": 103.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "тринадцать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 103.1,
+        "end": 105.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "двенадцать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 105.3,
+        "end": 107.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "одиннадцать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 107.9,
+        "end": 111.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "десять",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 111.2,
+        "end": 114.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "девять",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 114.1,
+        "end": 116.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "восемь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 116.9,
+        "end": 119.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "семь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 119.4,
+        "end": 123,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "шесть",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 123,
+        "end": 125.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "пять",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 125.9,
+        "end": 129.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "четыре",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 129.4,
+        "end": 132.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "три",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 132.1,
+        "end": 134.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 134.6,
+        "end": 137.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "два",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 137.5,
+        "end": 140.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "один",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 140.6,
+        "end": 143.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ю",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 146.4,
+        "end": 149.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "э",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 149.3,
+        "end": 152.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 152.3,
+        "end": 154.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ы",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 154.5,
+        "end": 157,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ъ",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 157,
+        "end": 159.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "щ",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 159.6,
+        "end": 162.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ш",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 162.2,
+        "end": 164.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ч",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 164.6,
+        "end": 166.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ц",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 166.9,
+        "end": 169.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "х",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 169.6,
+        "end": 171.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ф",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 171.8,
+        "end": 175.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "у",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 175.3,
+        "end": 178.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "т",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 178.4,
+        "end": 180.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "с",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 180.8,
+        "end": 183.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "р",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 183.3,
+        "end": 186.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "п",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 186.6,
+        "end": 189.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "о",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 189.2,
+        "end": 191.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "н",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 191.8,
+        "end": 194.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "м",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 194.6,
+        "end": 197.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "л",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 197.1,
+        "end": 199.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "к",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 199.9,
+        "end": 202.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "й",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 202.5,
+        "end": 205.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "и",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 205.1,
+        "end": 207.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "з",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 207.5,
+        "end": 210,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ж",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 210,
+        "end": 212.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ё",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 212.4,
+        "end": 214.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "е",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 214.8,
+        "end": 216.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "д",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 216.8,
+        "end": 219.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "г",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 219.4,
+        "end": 221.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "в",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 221.7,
+        "end": 225.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "б",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 225.7,
+        "end": 228.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "а",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 228.5,
+        "end": 231.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ответ",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 231.2,
+        "end": 234.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "вопросы",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 234.4,
+        "end": 237.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "что",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 237.8,
+        "end": 239.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "чем",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 239.8,
+        "end": 242.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "чей",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 242.4,
+        "end": 245.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "сколько",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 245.6,
+        "end": 248.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "почему",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 248.3,
+        "end": 250.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "откуда",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 250.9,
+        "end": 253.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "о чем",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 253.2,
+        "end": 256.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "нет",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 256.1,
+        "end": 258.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 258.2,
+        "end": 260.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "куда",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 260.2,
+        "end": 262.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "кто",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 262.9,
+        "end": 265.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "когда",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 265.8,
+        "end": 268.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 268.5,
+        "end": 270.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "какой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 270.7,
+        "end": 272.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "как",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 272.9,
+        "end": 275.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "зачем",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 275.3,
+        "end": 278.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 278.5,
+        "end": 280.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "да",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 280.9,
+        "end": 283,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "где",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 283,
+        "end": 285,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "яркий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 285,
+        "end": 288,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "щедрый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 288,
+        "end": 291.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "чуть-чуть",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 291.2,
+        "end": 293.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "чужой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 293.8,
+        "end": 296.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "чистый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 296.5,
+        "end": 299.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "честный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 299.1,
+        "end": 301.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "черный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 301.7,
+        "end": 303.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 303.9,
+        "end": 307.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "хуже",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 307.5,
+        "end": 309.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "худой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 309.9,
+        "end": 312.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 312.5,
+        "end": 315.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "хороший",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 315.2,
+        "end": 317.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 317.7,
+        "end": 319.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "холодный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 319.9,
+        "end": 322.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 322.5,
+        "end": 325.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "хмурый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 325.2,
+        "end": 327.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "хитрый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 327.8,
+        "end": 330.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "хвастливый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 330.7,
+        "end": 333.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 333.4,
+        "end": 336.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "фиолетовый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 336.3,
+        "end": 338.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ясно",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 338.8,
+        "end": 341,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "усталый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 341,
+        "end": 343.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "упрямый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 343.8,
+        "end": 346.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 346.7,
+        "end": 349,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 349,
+        "end": 351.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "умный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 351.6,
+        "end": 354.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ужасный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 354.4,
+        "end": 357.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "удобный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 357.1,
+        "end": 359.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "тяжелый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 359.3,
+        "end": 361.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 361.9,
+        "end": 364.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "трусливый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 364.6,
+        "end": 367.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "трудный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 367.2,
+        "end": 369.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "точный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 369.5,
+        "end": 372.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 372.2,
+        "end": 374.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 374.7,
+        "end": 377.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "тонкий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 377.2,
+        "end": 379.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "толстый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 379.5,
+        "end": 381.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 381.9,
+        "end": 384.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "темный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 384.5,
+        "end": 387.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "твердый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 387.1,
+        "end": 389.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "сухой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 389.4,
+        "end": 392,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "строгий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 392,
+        "end": 394.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 394.6,
+        "end": 396.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "страшный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 396.9,
+        "end": 399.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "странный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 399.9,
+        "end": 402.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 402.3,
+        "end": 405,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "старый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 405,
+        "end": 407.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "старательный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 407.6,
+        "end": 411.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "способный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 411.2,
+        "end": 413.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "следующий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 413.9,
+        "end": 416.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "сладкий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 416.9,
+        "end": 419.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 419.8,
+        "end": 422.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "слабый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 422.7,
+        "end": 425.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "скучно",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 425.2,
+        "end": 428.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "скучный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 428.6,
+        "end": 430.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "скупой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 430.9,
+        "end": 433.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "скромный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 433.4,
+        "end": 436,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 436,
+        "end": 438.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "синий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 438.8,
+        "end": 441.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 441.5,
+        "end": 444.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "симпатичный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 444.2,
+        "end": 446.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "сильный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 446.9,
+        "end": 449.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 449.1,
+        "end": 451.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "серый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 451.9,
+        "end": 454.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "серебряный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 454.8,
+        "end": 457.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 457.5,
+        "end": 460.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "свободный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 460.5,
+        "end": 462.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "светлый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 462.8,
+        "end": 465.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "свежий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 465.1,
+        "end": 467.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 467.7,
+        "end": 470.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 470.4,
+        "end": 473.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "рыжий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 473.1,
+        "end": 475.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "розовый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 475.5,
+        "end": 478.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "регулярный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 478.3,
+        "end": 481.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 481.9,
+        "end": 484.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ранний",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 484.8,
+        "end": 487.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "разный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 487.4,
+        "end": 489.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 563.7,
+        "end": 566.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "смелый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 489.6,
+        "end": 492,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "простой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 492,
+        "end": 494.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 494.2,
+        "end": 496.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "послушный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 496.8,
+        "end": 499.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "полезный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 499.5,
+        "end": 502.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "плохо",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 502.2,
+        "end": 504,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "плохой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 504,
+        "end": 506.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "печальный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 506.1,
+        "end": 508.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "отвратительный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 508.5,
+        "end": 511.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 511.4,
+        "end": 514.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "оранжевый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 514.2,
+        "end": 517,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "опять",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 517,
+        "end": 519.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 519.2,
+        "end": 521.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "опытный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 521.5,
+        "end": 523.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "одинаковый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 523.6,
+        "end": 526.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "обычный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 526.7,
+        "end": 528.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "обидно",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 528.9,
+        "end": 531.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "нормальный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 531.8,
+        "end": 534.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "новый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 534.2,
+        "end": 536.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "несчастный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 536.4,
+        "end": 539.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 539.1,
+        "end": 541.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "нервный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 541.6,
+        "end": 544.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "неприятный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 544.3,
+        "end": 548,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "необычный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 548,
+        "end": 550.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "некрасивый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 550.6,
+        "end": 553.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 553.8,
+        "end": 556.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "национальный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 556.9,
+        "end": 559.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "настоящий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 559.1,
+        "end": 561.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "мягкий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 561.3,
+        "end": 563.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "мокрый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 566.2,
+        "end": 569,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "младший",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 569,
+        "end": 571.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 571.7,
+        "end": 574.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "мелкий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 574.1,
+        "end": 576.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "медленно",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 576.3,
+        "end": 579,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 579,
+        "end": 582.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "лысый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 582.3,
+        "end": 584.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "лишний",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 584.9,
+        "end": 587.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ленивый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 587.6,
+        "end": 590.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 590.1,
+        "end": 592.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "легкомысленный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 592.5,
+        "end": 595,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "легкий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 595,
+        "end": 597.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 597.8,
+        "end": 600.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "кудрявый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 600.2,
+        "end": 603.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "крупный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 603.2,
+        "end": 605.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "красный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 605.9,
+        "end": 608.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "красивый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 608.6,
+        "end": 611,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "коричневый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 611,
+        "end": 613.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "кислый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 613.4,
+        "end": 615.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "искусственный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 615.4,
+        "end": 618.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 618.3,
+        "end": 621.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "интеллигентный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 621.6,
+        "end": 624.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "иностранный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 624.3,
+        "end": 627.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "иногда",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 627.3,
+        "end": 629.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "золотой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 629.9,
+        "end": 632.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "злой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 632.6,
+        "end": 635.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "зеленый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 635.1,
+        "end": 637.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "молодой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 637.7,
+        "end": 640.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "заносчивый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 640.4,
+        "end": 643.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 717.9,
+        "end": 720.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "замкнутый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 643.5,
+        "end": 646.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "замечательный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 646.3,
+        "end": 648.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "жестокий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 648.9,
+        "end": 651.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "желтый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 651.1,
+        "end": 653.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 653.8,
+        "end": 657.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "жадный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 657.2,
+        "end": 660,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 660,
+        "end": 663.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "дорогой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 663.4,
+        "end": 666.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "довольный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 666.1,
+        "end": 668.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "добрый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 668.5,
+        "end": 672.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "дешевый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 672.2,
+        "end": 674.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 674.7,
+        "end": 677,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "далеко",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 677,
+        "end": 679.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "грязный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 679.4,
+        "end": 682.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "грустный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 682.3,
+        "end": 684.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "грубый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 684.9,
+        "end": 687.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "грубо",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 687.3,
+        "end": 689.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "горячий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 689.7,
+        "end": 692.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "горький",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 692.4,
+        "end": 694.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "гордый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 694.9,
+        "end": 696.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "голубой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 696.9,
+        "end": 700.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 700.2,
+        "end": 703.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "голодный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 703.2,
+        "end": 705.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "глупый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 705.8,
+        "end": 708.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "глубокий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 708.9,
+        "end": 712,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "главный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 712,
+        "end": 714.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "высокий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 714.6,
+        "end": 717.9,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 796,
+        "end": 798.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "вспыльчивый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 720.7,
+        "end": 723.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "волевой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 723.7,
+        "end": 725.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "внимательный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 725.8,
+        "end": 728.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 728.5,
+        "end": 731.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "вкусный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 731.6,
+        "end": 734.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 734.2,
+        "end": 737.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "взрослый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 737.1,
+        "end": 739.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "взволнованный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 739.6,
+        "end": 743.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "веселый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 743.1,
+        "end": 746,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "великий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 746,
+        "end": 750.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "вежливый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 750.1,
+        "end": 753.3,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "быстро",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 753.3,
+        "end": 756,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 756,
+        "end": 759,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 759,
+        "end": 761.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "богатый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 761.5,
+        "end": 764.2,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "близко",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 764.2,
+        "end": 767.6,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 767.6,
+        "end": 770.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "благородный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 770.8,
+        "end": 773.7,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "бестолковый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 773.7,
+        "end": 777.1,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "белый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 777.1,
+        "end": 779.8,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 779.8,
+        "end": 783,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "безработный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 783,
+        "end": 785.5,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "бедный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 785.5,
+        "end": 788,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "ароматный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 788,
+        "end": 791,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      }
+    ]
+  },
+  {
+    "word": "аккуратный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 791,
+        "end": 793.4,
+        "source": "https://signlang.ru/studyrsl/topics/"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=XKAf6-9HvOw",
+        "start": 793.4,
+        "end": 796,
         "source": "https://signlang.ru/studyrsl/topics/"
       }
     ]
