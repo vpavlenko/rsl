@@ -2,10 +2,6 @@
   "video": "iscuxyOjIk0",
   "words": [
     {
-      "word": "НАЧАЛО",
-      "endTime": 0
-    },
-    {
       "word": "туфли",
       "startTime": 0,
       "endTime": 3.6
@@ -1779,12 +1775,12 @@
       "endTime": 918.4
     },
     {
-      "word": "его ее",
+      "word": "его, ее",
       "startTime": 918.4,
       "endTime": 920.2
     },
     {
-      "word": "друг товарищ",
+      "word": "друг, товарищ",
       "startTime": 920.2,
       "endTime": 922.2
     },
@@ -1794,7 +1790,7 @@
       "endTime": 924
     },
     {
-      "word": "все (закончилось)",
+      "word": "всё (закончилось)",
       "startTime": 924,
       "endTime": 926.1
     },
