@@ -1,21 +1,5 @@
 [
   {
-    "word": "начало",
-    "variants": [
-      {
-        "video": "https://www.youtube.com/watch?v=ipTfYTo-_ZI",
-        "end": 42.5,
-        "source": "https://www.youtube.com/watch?v=ipTfYTo-_ZI"
-      },
-      {
-        "video": "https://www.youtube.com/watch?v=ipTfYTo-_ZI",
-        "start": 943.2,
-        "end": 1016.8,
-        "source": "https://www.youtube.com/watch?v=ipTfYTo-_ZI"
-      }
-    ]
-  },
-  {
     "word": "агнец",
     "variants": [
       {
