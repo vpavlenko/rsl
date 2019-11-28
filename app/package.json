@@ -3,13 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.7.0",
     "axios": "^0.19.0",
     "fs": "0.0.1-security",
     "json-find": "^2.0.7",
+    "lodash": "^4.17.15",
+    "lodash.groupby": "^4.6.0",
     "omnibar": "^2.3.0",
     "react": "^16.12.0",
+    "react-autosuggest": "^9.4.3",
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0",
+    "react-video-tag": "0.0.10",
     "readdir": "^0.1.0"
   },
   "scripts": {

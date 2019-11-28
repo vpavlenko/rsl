@@ -1,23 +1,36 @@
 import React, {Component} from 'react';
+import CardContent from "@material-ui/core/CardContent";
+import Typography from "@material-ui/core/Typography";
+import Card from "@material-ui/core/Card";
 
 class Videos extends Component {
     render() {
+
         return (
-            <div
-                className="video"
-                style={{
-                    position: "relative",
-                    paddingBottom: "56.25%" /* 16:9 */,
-                    paddingTop: 25,
-                    height: 0
-                }}
-            >
-                <iframe width="560" height="315"
-                        src={this.props.video}
-                        frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowFullScreen>
-                </iframe>
-            </div>
+            <Card style={{margin: "20px 0"}}>
+                <CardContent>
+                    <Typography color="textSecondary" gutterBottom>
+                        Источник видео: {this.props.dict}
+                    </Typography>
+
+                </CardContent>
+                <div
+                    className="video"
+                    style={{
+                        position: "relative",
+                        padding: 25,
+                        paddingTop: 0,
+                    }}
+                >
+                    <iframe width="560" height="315"
+                            src={this.props.url}
+                            frameBorder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowFullScreen>
+                    </iframe>
+                </div>
+            </Card>
+
         );
     }
 }
