@@ -24,7 +24,17 @@
     "jestovnet.json",
     "nisor.json",
     "spreadthesign.json",
-    "surdoserver.json"
+    "surdoserver.json",
+    "blue.json",
+    "effafa.json",
+    "glas.json",
+    "green.json",
+    "kovcheg.json",
+    "noequivalent.json",
+    "obraz.json",
+    "surdocentr.json",
+    "tserkov.json",
+    "voginfo.json"
   ],
   "start_url": ".",
   "display": "standalone",

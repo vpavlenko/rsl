@@ -1,0 +1,2555 @@
+[
+  {
+    "word": "венчание",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 17.6,
+        "end": 28.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 248.4,
+        "end": 257.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "водосвятие",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 28.4,
+        "end": 37.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 292.8,
+        "end": 302.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "елеосвящение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 37.9,
+        "end": 49,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "исповедь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 49,
+        "end": 59.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 471.7,
+        "end": 482.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "крещение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 59.5,
+        "end": 68.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "миропомазание",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 68.7,
+        "end": 80.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "обручение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 80.3,
+        "end": 89.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "обряд",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 89.7,
+        "end": 99.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "отпевание",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 99.9,
+        "end": 111.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "панихида",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 111.5,
+        "end": 124.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "покаяние",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 124.1,
+        "end": 133.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "помазание",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 133.4,
+        "end": 142.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "постриг",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 142.7,
+        "end": 150.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "преставление",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 150.7,
+        "end": 160.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "пресуществление",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 160.4,
+        "end": 170.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "причащение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 170.3,
+        "end": 179.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "таинство",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 179.4,
+        "end": 188.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "треба",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=M5KJO-p8y6o",
+        "start": 188.4,
+        "end": 208.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "благовещение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 16.7,
+        "end": 27.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "богоявление",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 27.4,
+        "end": 38.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "введение во храм пресвятой богородицы",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 38.2,
+        "end": 58.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "вербное воскресенье",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 58.9,
+        "end": 73,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "воздвижение креста господня",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 73,
+        "end": 89.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "вознесение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 89.8,
+        "end": 100.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "вознесение господне",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 100.1,
+        "end": 106.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "вход господень в иерусалим",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 106.9,
+        "end": 120,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "духов день",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 120,
+        "end": 131,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "крещение господне",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 131,
+        "end": 141.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "обрезание господне",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 141.5,
+        "end": 150.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "пасха",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 150.8,
+        "end": 160,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "покров пресвятой богородицы",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 160,
+        "end": 173,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "преображение господне",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 173,
+        "end": 183.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "престольные праздники",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 183.2,
+        "end": 192.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "пятидесятница",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 192.6,
+        "end": 200.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "рождество пресвятой богородицы",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 200.8,
+        "end": 214.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "рождество христово",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 214.4,
+        "end": 223.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "сретение господне",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 223.5,
+        "end": 233.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "троица",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 233.7,
+        "end": 241.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "успение пресвятой богородицы",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=IxMqS339oRg",
+        "start": 241.9,
+        "end": 256.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "агнец божий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 16.8,
+        "end": 27,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "ангел-хранитель",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 27,
+        "end": 37.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "блудный сын",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 37.5,
+        "end": 49.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "великая седмица",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 49.5,
+        "end": 62.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "великий вход",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 62.1,
+        "end": 74.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "великий покаянный канон",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 74.6,
+        "end": 91.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "великий пост",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 91.7,
+        "end": 105.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "великое славословие",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 105.3,
+        "end": 122,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "вселенская церковь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 122,
+        "end": 140.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "достойно есть",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 140.3,
+        "end": 152.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "жёны-мироносицы",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 152.2,
+        "end": 167.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "заповеди блаженства",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 167.7,
+        "end": 183.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "зачатие непорочное",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 183.6,
+        "end": 197.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "крестный ход",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 197.4,
+        "end": 209.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "крестопоклонная неделя",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 209.5,
+        "end": 227.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "нагорная проповедь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 227.1,
+        "end": 241.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "новый завет",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 241.3,
+        "end": 252.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "промысел божий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 252.7,
+        "end": 263.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "прощёное воскресенье",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 263.6,
+        "end": 276.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "раб божий",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 276.6,
+        "end": 289.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=4IzQdT_A-Mc",
+        "start": 289.1,
+        "end": 298.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "алтарь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 15.9,
+        "end": 26.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "амвон",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 26.6,
+        "end": 37.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "аналой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 37.4,
+        "end": 50.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "антиминс",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 50.1,
+        "end": 65.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "врата",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 65.6,
+        "end": 78.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "дарохранительница",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 78.3,
+        "end": 93.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "дискос",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 93.3,
+        "end": 108.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "жертвенник",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 108.6,
+        "end": 124.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "иконостас",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 124.5,
+        "end": 137,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "кадило",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 137,
+        "end": 149.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "канун",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 149.8,
+        "end": 165.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "киот",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 165.1,
+        "end": 176.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "колокол",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 176.5,
+        "end": 190.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "колокольня",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 190.2,
+        "end": 204.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "купель",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 204.4,
+        "end": 218.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "лампада",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 218.7,
+        "end": 228.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "престол",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 228.6,
+        "end": 239.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "притвор",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 239.8,
+        "end": 251.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "свеча",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 251.8,
+        "end": 263.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 805.8,
+        "end": 816.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "собор",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 263.4,
+        "end": 276.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "теплота",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 276.9,
+        "end": 290.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "трапезная",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=0F2UpyF78H0",
+        "start": 290.7,
+        "end": 300.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "архидиакон",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 16.7,
+        "end": 27.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "архиепископ",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 27.4,
+        "end": 36.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "архиерей",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 36.9,
+        "end": 46.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "батюшка",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 46.2,
+        "end": 56.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 87.7,
+        "end": 98.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "братия",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 56.1,
+        "end": 67.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "владыка",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 67.2,
+        "end": 79.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "высокопреосвященный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 79.4,
+        "end": 90.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "духовенство",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 90.9,
+        "end": 101.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "духовник",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 101.1,
+        "end": 112.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "епископ",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 112.9,
+        "end": 123.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "звонарь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 123.5,
+        "end": 136.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "игумен",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 136.8,
+        "end": 148.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "иерархия",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 148.3,
+        "end": 158.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "иерей",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 158.6,
+        "end": 170.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "иеродиакон",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 170.5,
+        "end": 184.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "иеромонах",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 184.3,
+        "end": 197.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "инок",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 197.7,
+        "end": 208.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "келейник",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 208.7,
+        "end": 221.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "клир",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 221.4,
+        "end": 234.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 234.7,
+        "end": 248.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "клирос",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 248.8,
+        "end": 263,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "митрополит",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 263,
+        "end": 274,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "монах",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 274,
+        "end": 285.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "настоятель",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=U0rUwnk7lvI",
+        "start": 285.8,
+        "end": 300.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "венец",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 16.9,
+        "end": 27.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "венчик",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 27.5,
+        "end": 36.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "вериги",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 36.2,
+        "end": 46.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "епитрахиль",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 46.9,
+        "end": 56.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "жезл",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 56.2,
+        "end": 65.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "камилавка",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 65.2,
+        "end": 75.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "куколь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 75.5,
+        "end": 85.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "митра",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 85.3,
+        "end": 94.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "облачаться",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 94.9,
+        "end": 103.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "орарь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 103.8,
+        "end": 113,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "панагия",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 113,
+        "end": 121.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "подрясник",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 121.3,
+        "end": 130.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "поручи",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 130.6,
+        "end": 138.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "пояс",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 138.6,
+        "end": 148.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "риза",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 148.4,
+        "end": 158.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "скуфья",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 158.5,
+        "end": 168.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "фелонь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=CYBCvmCV7Wk",
+        "start": 168.3,
+        "end": 178,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "ад",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 17.3,
+        "end": 25.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "аллилуйа",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 25.4,
+        "end": 35.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "аминь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 35.4,
+        "end": 45.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "ангел",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 45.9,
+        "end": 56.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "антихрист",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 56.9,
+        "end": 68.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "апостол",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 68.3,
+        "end": 78.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "бес",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 78.6,
+        "end": 87.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "библия",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 98.4,
+        "end": 111.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "благовествовать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 111.8,
+        "end": 124,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "благоговение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 124,
+        "end": 135.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "благодать",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 135.4,
+        "end": 145.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 145.7,
+        "end": 156.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "благословение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 156.8,
+        "end": 169.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 169.5,
+        "end": 178.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "блаженны",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 178.4,
+        "end": 188.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "бог",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 188.1,
+        "end": 196.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "богоматерь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 196.9,
+        "end": 207.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "богородица",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 207.8,
+        "end": 217.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "богослужение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 217.8,
+        "end": 229.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "великомученик",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 229.2,
+        "end": 239.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "величание",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 239.5,
+        "end": 248.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "вера",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 257.5,
+        "end": 266.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "вероисповедание",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 266.9,
+        "end": 281.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "ветхий завет",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 281.1,
+        "end": 292.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "воздержание",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 302.9,
+        "end": 313.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "вожделение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 313.5,
+        "end": 322.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "воскресение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 322.8,
+        "end": 333.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "гибель",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 333.7,
+        "end": 344.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "голгофа",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 344.5,
+        "end": 356.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "господь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 356.6,
+        "end": 366.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "гроб",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 366.1,
+        "end": 373.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "дьявол",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 373.8,
+        "end": 382.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "догмат",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 382.3,
+        "end": 390.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "дух",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 390.6,
+        "end": 402.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 402.1,
+        "end": 410.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "душа",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 410.6,
+        "end": 419,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 419,
+        "end": 428.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "икона",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 428.5,
+        "end": 439.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "иисус христос",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 439.5,
+        "end": 451.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "искушение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 451.8,
+        "end": 461.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "истина",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 461.1,
+        "end": 471.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "крест",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 482.6,
+        "end": 493.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "кротость",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 493.6,
+        "end": 505,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "литургия",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 505,
+        "end": 515.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "лукавый",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 515.4,
+        "end": 526.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "мистика",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 526.4,
+        "end": 536.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "многолетие",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 536.9,
+        "end": 548,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "молитва",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 548,
+        "end": 557.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "монастырь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 557.9,
+        "end": 568.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "николай чудотворец",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 568.5,
+        "end": 582.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "новопреставленный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 582.7,
+        "end": 598.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "образ",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 598.3,
+        "end": 608.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "оглашение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 608.8,
+        "end": 620.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "паломник",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 620.3,
+        "end": 633.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "пожертвование",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 633.7,
+        "end": 643.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "помилуй",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 643.7,
+        "end": 653.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "пост",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 653.6,
+        "end": 663,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "православие",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 663,
+        "end": 674.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 674.8,
+        "end": 685.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "преисподняя",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 685.5,
+        "end": 695.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "премудрость",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 695.5,
+        "end": 706.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "причастие",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 706.9,
+        "end": 719.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "проповедник",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 719.6,
+        "end": 733.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "пастор",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 733.2,
+        "end": 742.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "пророк",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 742.5,
+        "end": 754.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "протестантизм",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 754.6,
+        "end": 766.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "рай",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 766.2,
+        "end": 775.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "распятие",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 775.5,
+        "end": 785.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "религия",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 785.8,
+        "end": 795.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "сакральный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 795.5,
+        "end": 805.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "святой",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 816.3,
+        "end": 826.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "секта",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 826.9,
+        "end": 838.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "смерть",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 838.3,
+        "end": 851.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "соборность",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 851.6,
+        "end": 860.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "спасение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 860.7,
+        "end": 870,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "спаситель",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 870,
+        "end": 881.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "старовер",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 881.1,
+        "end": 892.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "творче",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 892.5,
+        "end": 905.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "храм",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 905.8,
+        "end": 917.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "херувим",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 917.6,
+        "end": 930,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "церковь",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 930,
+        "end": 943.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "часовня",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=7BwXSlPdiiI",
+        "start": 943.7,
+        "end": 953.8,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "аборт",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 17.5,
+        "end": 23.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "блуд",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 23.4,
+        "end": 30.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "блудник",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 30.4,
+        "end": 38.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "богохуление",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 38.3,
+        "end": 50.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "высокомерие",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 50.6,
+        "end": 60.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "гадание",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 60.7,
+        "end": 68.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "гнев",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 68.5,
+        "end": 76.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "гордыня",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 76.3,
+        "end": 85.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "грех",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 85.7,
+        "end": 97.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 97.2,
+        "end": 104.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "грехопадение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 104.5,
+        "end": 115,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "грешник",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 115,
+        "end": 127.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "жестокосердие",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 127.2,
+        "end": 139,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "злопамятный",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 139,
+        "end": 151,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "злорадство",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 151,
+        "end": 162.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "злость",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 162.2,
+        "end": 170.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "идолопоклонство",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 170.1,
+        "end": 182.4,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "избиение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 182.4,
+        "end": 194.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "клевета",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 194.7,
+        "end": 205.3,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "кощунство",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 205.3,
+        "end": 216.7,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "лицемерие",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 216.7,
+        "end": 227.5,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "любоначалие",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 227.5,
+        "end": 239.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "любостяжание",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 239.1,
+        "end": 250.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "любодеяние",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 250.2,
+        "end": 263,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "магия",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 263,
+        "end": 272.6,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "малодушие",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 272.6,
+        "end": 282.9,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "мытарства",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 282.9,
+        "end": 293.1,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  },
+  {
+    "word": "небрежение",
+    "variants": [
+      {
+        "video": "https://www.youtube.com/watch?v=u3WZ6nT7fi4",
+        "start": 293.1,
+        "end": 300.2,
+        "source": "http://surdonika.ru/metodics/editions/slovar-religioznykh-zhestov.php"
+      }
+    ]
+  }
+]
