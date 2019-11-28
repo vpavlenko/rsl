@@ -130,7 +130,7 @@ class App extends Component {
                     let url;
                     if (v.variants[0].start)
                         url = `https://www.youtube.com/embed/${v.variants[0].video.split('v=')[1]}?start=${Math.floor(v.variants[0].start)}&end=${Math.ceil(v.variants[0].end)}&rel=0&loop=1&controls=0&showinfo=0`;
-                    else if (!v.variants[0].video.endsWith(".mp4")) url = `https://www.youtube.com/embed/${v.variants[0].video.split('v=')[1]}`;
+                    else if (!v.variants[0].video.endsWith(".mp4") && !v.variants[0].video.endsWith(".webm")) url = `https://www.youtube.com/embed/${v.variants[0].video.split('v=')[1]}`;
                     else url = v.variants[0].video;
 
                     videos.push(<Videos url={url} dict={v.dict}/>);
