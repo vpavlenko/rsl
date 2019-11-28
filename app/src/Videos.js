@@ -10,7 +10,7 @@ class Videos extends Component {
             <Card style={{margin: "20px 0"}}>
                 <CardContent>
                     <Typography color="textSecondary" gutterBottom>
-                        Источник видео: {this.props.dict}
+                        Источник видео: <a href={this.props.source} target="_blank">{this.props.dict}</a>
                     </Typography>
 
                 </CardContent>

@@ -133,7 +133,7 @@ class App extends Component {
                     else if (!v.variants[0].video.endsWith(".mp4") && !v.variants[0].video.endsWith(".webm")) url = `https://www.youtube.com/embed/${v.variants[0].video.split('v=')[1]}`;
                     else url = v.variants[0].video;
 
-                    videos.push(<Videos url={url} dict={v.dict}/>);
+                    videos.push(<Videos url={url} dict={v.dict} source={v.variants[0].source} />);
                 }
             }
         }
