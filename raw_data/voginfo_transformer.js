@@ -6,7 +6,7 @@ output = input.map(({ word, cities }) => ({
   variants: cities.map(({ video }) => ({
     video: `http://voginfo.ru/lexicon/assets/video/webm/${video}`,
     source: "http://voginfo.ru/lexicon/"
-  })),
+  }))
 }));
 
 console.log(JSON.stringify(output, null, 2));
