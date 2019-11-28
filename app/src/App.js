@@ -40,11 +40,11 @@ class App extends Component {
         var dicts = [];
         var words = [];
 
-        axios.get('/manifest.json')
+        axios.get('manifest.json')
             .then((response) => {
                 const dict_names = response.data.dictionaries;
                 dict_names.forEach(file => {
-                    axios.get(`/dictionaries/${file}`)
+                    axios.get(`dictionaries/${file}`)
                         .then(resp => {
                             dicts.push({title: `${file}`.split('.json')[0], words: resp.data});
                             resp.data.forEach(wordInfo => {
@@ -129,7 +129,7 @@ class App extends Component {
                 for (let v of wordInfo) {
                     let url;
                     if (v.variants[0].start)
-                        url = `https://www.youtube.com/embed/${v.variants[0].video.split('v=')[1]}?start=${v.variants[0].start}&end=${v.variants[0].end}&rel=0&loop=1&controls=0&showinfo=0`;
+                        url = `https://www.youtube.com/embed/${v.variants[0].video.split('v=')[1]}?start=${Math.floor(v.variants[0].start)}&end=${Math.ceil(v.variants[0].end)}&rel=0&loop=1&controls=0&showinfo=0`;
                     else if (!v.variants[0].video.endsWith(".mp4")) url = `https://www.youtube.com/embed/${v.variants[0].video.split('v=')[1]}`;
                     else url = v.variants[0].video;
 
