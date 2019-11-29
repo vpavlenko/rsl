@@ -96,3 +96,61 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
+.video-card {
+    width: 45%;
+    height: 400px;
+    margin: 20px 0;
+    min-width: 500px;
+}
+
+.video {
+    position: relative;
+    margin: 15px;
+    width: 95%;
+    height: 85%;
+}
+
+/*
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+@media (min-width: 481px) and (max-width: 767px) {
+
+    .video-card {
+        min-width: 400px;
+        width: 400px;
+        height: 300px;
+    }
+
+    .search-field {
+        padding-top: 50px;
+        width: 40%;
+    }
+
+}
+
+/*!**/
+/*##Device = Most of the Smartphones Mobiles (Portrait)*/
+/*##Screen = B/w 320px to 479px*/
+/**!*/
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .video-card {
+        min-width: 300px;
+        width: 300px;
+        height: 200px;
+    }
+
+    .search-field {
+        padding-top: 80px;
+        width: 60%;
+    }
+
+}
+
+.search-field {
+    padding-top: 80px;
+    margin: auto;
+    width: 25%;
+}
