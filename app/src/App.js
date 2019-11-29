@@ -147,11 +147,16 @@ class App extends Component {
         const inputProps = {
             placeholder: "Введите слово",
             value: this.state.value,
-            onChange: this.onChange
+            onChange: this.onChange,
+            autoFocus: true,
         };
 
         return (
             <div>
+                <div>
+                    <h1>Поиск по словарям РЖЯ</h1>
+                    <a href="https://vk.com/public189313853">Группа в ВК</a>
+                </div>
                 <div className={"search-field"}>
                     <Autosuggest
                         suggestions={this.state.suggestions}
