@@ -61,6 +61,18 @@ class App extends Component {
             dicts: dicts,
             words: words,
         });
+
+        let searchField = document.getElementsByClassName('search-field');
+
+        var _this = this;
+        searchField[0].addEventListener('keyup', function onEvent(e) {
+            if (e.keyCode === 13) {
+                _this.setState({
+                    selected: true,
+                    value: e.target.value,
+                });
+            }
+        });
     }
 
     getSuggestions = (value) => {
@@ -92,9 +104,11 @@ class App extends Component {
     };
 
     onChange = (event, {newValue, method}) => {
-        this.setState({
-            value: newValue,
-        });
+        if (method !== 'enter') {
+            this.setState({
+                value: newValue,
+            });
+        }
     };
 
     onSuggestionsFetchRequested = ({value}) => {
@@ -110,7 +124,7 @@ class App extends Component {
         });
     };
 
-    onSuggestionSelected = (event, {suggestion}) => {
+    onSuggestionSelected = (event) => {
         this.setState({
             selected: true,
         });
@@ -120,7 +134,7 @@ class App extends Component {
         let wordInfo = [];
         let videos = [];
 
-        if (this.state.selected && this.state.value.length > 0) {
+        if (this.state.selected && this.state.groupedWords.hasOwnProperty(this.state.value) && this.state.value.length > 0) {
             this.state.groupedWords[this.state.value].forEach(dict => {
                 wordInfo.push({variants: dict.variants, dict: dict.title})
             });
