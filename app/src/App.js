@@ -86,7 +86,7 @@ class App extends Component {
                 return obj;
             }, {});
 
-        return Object.keys(filtered).map(key => {
+        return Object.keys(filtered).sort().map(key => {
             return {word: key}
         });
     };
@@ -127,13 +127,15 @@ class App extends Component {
 
             if (wordInfo) {
                 for (let v of wordInfo) {
-                    let url;
-                    if (v.variants[0].start)
-                        url = `https://www.youtube.com/embed/${v.variants[0].video.split('v=')[1]}?start=${Math.floor(v.variants[0].start)}&end=${Math.ceil(v.variants[0].end)}&rel=0&loop=1&controls=0&showinfo=0`;
-                    else if (!v.variants[0].video.endsWith(".mp4") && !v.variants[0].video.endsWith(".webm")) url = `https://www.youtube.com/embed/${v.variants[0].video.split('v=')[1]}`;
-                    else url = v.variants[0].video;
+                    for (let variant of v.variants) {
+                        let url;
+                        if (variant.start)
+                            url = `https://www.youtube.com/embed/${variant.video.split('v=')[1]}?start=${Math.floor(variant.start)}&end=${Math.ceil(variant.end)}&rel=0&loop=1&controls=0&showinfo=0`;
+                        else if (!variant.video.endsWith(".mp4") && !variant.video.endsWith(".webm")) url = `https://www.youtube.com/embed/${variant.video.split('v=')[1]}`;
+                        else url = variant.video;
 
-                    videos.push(<Videos url={url} dict={v.dict} source={v.variants[0].source} />);
+                        videos.push(<Videos url={url} dict={v.dict} source={variant.source}/>);
+                    }
                 }
             }
         }
@@ -150,7 +152,7 @@ class App extends Component {
 
         return (
             <div>
-                <div style={{paddingTop: "80px", margin: "auto", width: "25%"}}>
+                <div className={"search-field"}>
                     <Autosuggest
                         suggestions={this.state.suggestions}
                         onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}

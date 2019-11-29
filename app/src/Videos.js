@@ -7,28 +7,20 @@ class Videos extends Component {
     render() {
 
         return (
-            <Card style={{margin: "20px 0"}}>
-                <CardContent>
+            <Card className={"video-card"}>
+                <CardContent style={{height: "90%"}}>
                     <Typography color="textSecondary" gutterBottom>
                         Источник видео: <a href={this.props.source} target="_blank">{this.props.dict}</a>
                     </Typography>
-
-                </CardContent>
-                <div
-                    className="video"
-                    style={{
-                        position: "relative",
-                        padding: 25,
-                        paddingTop: 0,
-                    }}
-                >
-                    <iframe width="560" height="315"
+                    <iframe className="video"
                             src={this.props.url}
                             frameBorder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
                             allowFullScreen>
                     </iframe>
-                </div>
+                </CardContent>
+
+
             </Card>
 
         );
